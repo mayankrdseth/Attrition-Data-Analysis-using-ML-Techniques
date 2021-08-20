@@ -1,6 +1,6 @@
-Attacks and Anomalies in Internet of Things							       Apr’21 – Jun’21
+Attrition Data Analysis using ML Techniques							      Nov’20 – Dec’20
 
-Self-Project | Tool: PyTorch, Python
+Self-Project | Tool: Scikit Learn, Python
 
 To predict the attrition of an employee based on known measurable factors of employees in a company.
 
