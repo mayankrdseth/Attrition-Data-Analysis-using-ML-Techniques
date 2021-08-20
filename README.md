@@ -1,5 +1,6 @@
-# IBM-Attrition-Analysis
-Self Study Project
+Attacks and Anomalies in Internet of Things							       Apr’21 – Jun’21
+
+Self-Project | Tool: PyTorch, Python
 
 To predict the attrition of an employee based on known measurable factors of employees in a company.
 
